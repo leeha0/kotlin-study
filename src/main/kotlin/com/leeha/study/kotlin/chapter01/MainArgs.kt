@@ -1,4 +1,4 @@
-package com.leeha.study.kotlin
+package com.leeha.study.kotlin.chapter01
 
 fun main(args: Array<String>) {
     println(args[0])
